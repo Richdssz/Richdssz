@@ -47,8 +47,6 @@
 ## 📊 Estatísticas & Atividade
 
 <img src="https://streak-stats.demolab.com?user=Richdssz&theme=dracula&locale=pt_BR&hide_border=true" alt="Frequência de Commits" />
-<br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Richdssz&theme=dracula&hide_border=true&area=true" alt="Gráfico de Atividade" />
 
 ---
 
