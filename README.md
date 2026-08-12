@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-🎓 &nbsp;Estudante do **2º período** de Sistemas para Internet na *UNICAP* — Universidade Católica de Pernambuco <br>
+🎓 &nbsp;Estudante do **3º período** de Sistemas para Internet na *UNICAP* — Universidade Católica de Pernambuco <br>
 🔧 &nbsp;Técnico em Redes formado pela **ETE Professor Lucilo Ávila Pessoa** (ETE PLAP) <br>
 🗄️ &nbsp;Trabalhando com integração de dados utilizando **PostgreSQL** e **Supabase**
 
