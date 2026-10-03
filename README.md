@@ -1,161 +1,180 @@
-<h1 align="center">Olá, eu sou o Richard Silva! 👋</h1>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Desenvolvedor+de+Software+Java+%26+Back-end;Estudante+de+Sistemas+para+Internet+%40+UNICAP;Desenvolvedor+Mobile+com+Flutter+%26+Dart;T%C3%A9cnico+em+Redes+%40+ETE+PLAP;Construindo+aplica%C3%A7%C3%B5es+robustas+rumo+ao+Full-Stack" alt="Typing SVG" />
-</div>
+  <a href="https://github.com/Richdssz">
+    <img src="https://github.com/Richdssz.png" width="115" height="115" style="border-radius: 50%; border: 3px solid #38BDF8;" alt="Richard Silva" />
+  </a>
 
-<p align="center">
-  Bem-vindo ao meu GitHub! Desenvolvedor focado em soluções escaláveis e de alta performance. Combino arquitetura sólida no <b>Back-end com Java & Spring Boot</b>, desenvolvimento <b>Mobile multiplataforma com Flutter & Dart</b>, persistência em <b>bancos relacionais/NoSQL</b> e interfaces web modernas rumo ao <b>Full-Stack</b>.
-</p>
+  <h1>Richard Silva</h1>
 
-<div align="center">
-  <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Aprojeto-pessoal">
-    <img src="https://img.shields.io/badge/Projetos_Pessoais-1E293B?style=for-the-badge&logo=rocket&logoColor=38BDF8&labelColor=0F172A" alt="Projetos Pessoais">
-  </a>
-  &nbsp;
-  <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Aexercicios">
-    <img src="https://img.shields.io/badge/Exercícios_%26_Práticas-1E293B?style=for-the-badge&logo=flask&logoColor=A78BFA&labelColor=0F172A" alt="Exercícios">
-  </a>
-  &nbsp;
-  <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Aunicap">
-    <img src="https://img.shields.io/badge/Acadêmico_UNICAP-1E293B?style=for-the-badge&logo=readme&logoColor=34D399&labelColor=0F172A" alt="UNICAP">
-  </a>
-  &nbsp;
-  <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Ajava">
-    <img src="https://img.shields.io/badge/Códigos_Java-1E293B?style=for-the-badge&logo=java&logoColor=ED8B00&labelColor=0F172A" alt="Java">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Desenvolvedor+de+Software;Estudante+de+Sistemas+para+Internet+%40+UNICAP;T%C3%A9cnico+em+Redes+de+Computadores+%40+ETE+PLAP;Desenvolvedor+Java+%26+Back-end" alt="Typing SVG" />
+
+  <p>
+    Recife, Pernambuco · Foco em <b>Arquitetura Back-end com Java & Spring Boot</b>, <b>Infraestrutura de Redes</b> e <b>Desenvolvimento Assistido por IA</b> para automação e produtividade no dia a dia.
+  </p>
+
+  <p>
+    <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Aestudos">
+      <img src="https://img.shields.io/badge/Estudos-0F172A?style=for-the-badge&logo=gitbook&logoColor=38BDF8&labelColor=020617" alt="Estudos">
+    </a>
+    &nbsp;
+    <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Aprojeto-pessoal">
+      <img src="https://img.shields.io/badge/Projetos_Pessoais-0F172A?style=for-the-badge&logo=codeforces&logoColor=F59E0B&labelColor=020617" alt="Projetos Pessoais">
+    </a>
+    &nbsp;
+    <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Adesenvolvimento-assistido-por-ia">
+      <img src="https://img.shields.io/badge/Assistidos_por_IA-0F172A?style=for-the-badge&logo=openai&logoColor=34D399&labelColor=020617" alt="Assistidos por IA">
+    </a>
+  </p>
 </div>
 
 ---
 
 ### Sobre Mim & Trajetória
 
-- 🎓 &nbsp;Graduando em **Sistemas para Internet** na **UNICAP** (_Universidade Católica de Pernambuco_)
-- 🔌 &nbsp;Técnico em **Redes de Computadores** formado pela **ETE Professor Lucilo Ávila Pessoa** (_ETE PLAP_)
-- ☕ &nbsp;Especialização contínua em **Java (POO, Algoritmos e Estruturas de Dados)** em transição para o ecossistema **Spring Boot**
-- 📱 &nbsp;Construção de aplicações mobile com **Flutter & Dart**
-- 🌐 &nbsp;Desenvolvimento web com **HTML5, CSS3, JavaScript (ES6+) e TypeScript**
-- 🗄️ &nbsp;Persistência e modelagem com **PostgreSQL, MongoDB e Supabase**
+- 🎓 &nbsp;Graduando em **Sistemas para Internet** na **UNICAP** (*Universidade Católica de Pernambuco*).
+- 🔌 &nbsp;Técnico em **Redes de Computadores** formado pela **ETE Professor Lucilo Ávila Pessoa** (*ETE PLAP*), com sólida base em protocolos, roteamento, sub-redes e infraestrutura Linux.
+- ☕ &nbsp;Especialização contínua no ecossistema **Java (POO profunda, Algoritmos e Estruturas de Dados)** em transição e desenvolvimento com **Spring Boot 3**.
+- 📱 &nbsp;Construção de aplicações mobile multiplataforma com **Flutter & Dart**.
+- 🗄️ &nbsp;Modelagem relacional e persistência com **PostgreSQL, Spring Data JPA, Supabase e MongoDB**.
+- 🤖 &nbsp;Utilização pragmática de **Inteligência Artificial como acelerador de engenharia**, criando ferramentas de automação e pipelines para otimizar fluxos do cotidiano.
+
+---
+
+### 📚 1. Estudos & Fundamentos
+> *Repositórios dedicados à formação acadêmica na UNICAP, consolidação de algoritmos, POO rigorosa em Java, redes e desenvolvimento web.*
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Richdssz/crud-pessoas-springboot">CRUD Pessoas · Spring Boot 3</a></h4>
+      <p>API REST completa com proteção contra sobrecarga via Rate Limiting com Bucket4j, persistência relacional com PostgreSQL/JPA e front-end minimalista em Grayscale Brutalism com feedback de status HTTP.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bucket4j-1E293B?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Richdssz/Java-poo">Java POO & Algoritmos</a></h4>
+      <p>Implementações práticas e estudos aprofundados dos quatro pilares de Orientação a Objetos (encapsulamento, herança, polimorfismo, abstração), coleções e estruturas de dados.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/POO-FBBF24?style=flat-square&logo=codeforces&logoColor=black" />
+        <img src="https://img.shields.io/badge/Estruturas_de_Dados-1E293B?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Richdssz/redes">Redes de Computadores</a></h4>
+      <p>Documentação técnica, diagnósticos de rede, topologias, protocolos TCP/IP e fundamentos de infraestrutura desenvolvidos ao longo da formação técnica na ETE PLAP e UNICAP.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Redes-0284C7?style=flat-square&logo=cisco&logoColor=white" />
+        <img src="https://img.shields.io/badge/TCP/IP-1E293B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Infraestrutura-475569?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Richdssz/Front-end-2026.2">Front-end UNICAP</a></h4>
+      <p>Laboratório prático com projetos, atividades curriculares e exercícios modernos de interface, manipulação do DOM e integrações assíncronas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Richdssz/Exercicios-Programacao-imperativa">Programação Imperativa</a></h4>
+      <p>Resolução de listas de exercícios, lógica computacional, vetores, matrizes e algoritmos clássicos da grade curricular de Sistemas para Internet.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Lógica-64748B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Algoritmos-1E293B?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Richdssz/Meu_card">Meu Card · Mobile Flutter</a></h4>
+      <p>Cartão interativo e responsivo desenvolvido em Flutter e Dart para experimentação prática de widgets móveis e design de interfaces.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ 2. Projetos Pessoais (Engenharia Autoral)
+> *Projetos autorais desenhados e implementados diretamente por mim, onde detenho domínio de ponta a ponta sobre cada decisão de arquitetura, modelagem e regra de negócio.*
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <p>
+        Atualmente concentro meus projetos autorais mais extensos e soluções de negócio em repositórios privados em fase de validação e incubação técnica.
+      </p>
+      <p>
+        <i>Os projetos públicos com controle e implementação técnica rigorosa podem ser conferidos na seção de <b>Estudos Aplicados</b> acima e nos futuros lançamentos públicos da tag:</i>
+        <br><br>
+        <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Aprojeto-pessoal">
+          <img src="https://img.shields.io/badge/Explorar_Projetos_Pessoais-0F172A?style=for-the-badge&logo=github&logoColor=F59E0B" alt="Projetos Pessoais">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚡ 3. Desenvolvimento Assistido por IA
+> *Soluções construídas para resolver fricções e automações do dia a dia através de engenharia pragmática e desenvolvimento acelerado com Inteligência Artificial.*
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Richdssz/vagas-scraper">vagas-scraper · Multi-Platform Finder</a></h4>
+      <p>Pipeline autônomo que monitora 9 plataformas de vagas (LinkedIn, Gupy, Glassdoor, Catho, etc.), realiza deduplicação cruzada de oportunidades repetidas, expõe painel web local para filtros e despacha resumos por e-mail silenciosamente.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Assistido_por_IA-10B981?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Automação-0284C7?style=flat-square&logo=gnubash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Web_Scraping-475569?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Richdssz/acessoedu-nordeste">AcessoEdu Nordeste</a></h4>
+      <p>Plataforma para transparência cidadã e diagnóstico da infraestrutura de escolas públicas municipais e estaduais do Nordeste, tratando bases do Censo Escolar para consumo público aberto.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Assistido_por_IA-10B981?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Stacks & Tecnologias
 
-<table>
-  <tr>
-    <td width="180" valign="top"><b>Back-end</b></td>
-    <td>
-      <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Ajava">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-      </a>
-      &nbsp;
-      <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Aspring-boot">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-      </a>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    </td>
-  </tr>
-  <tr>
-    <td width="180" valign="top"><b>Front-end</b></td>
-    <td>
-      <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Ahtml">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      </a>
-      &nbsp;
-      <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Acss">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      </a>
-      &nbsp;
-      <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Ajavascript">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      </a>
-      &nbsp;
-      <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Atypescript">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="180" valign="top"><b>Mobile</b></td>
-    <td>
-      <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Aflutter">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-      </a>
-      &nbsp;
-      <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Adart">
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="180" valign="top"><b>Bancos de Dados</b></td>
-    <td>
-      <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Apostgresql">
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </a>
-      &nbsp;
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-      &nbsp;
-      <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Asupabase">
-        <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="180" valign="top"><b>Ferramentas & Deploy</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      &nbsp;
-      <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Avercel">
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-### Projetos em Destaque
-
-<table>
-  <tr>
-    <td width="33.3%" valign="top">
-      <h3 align="center"><a href="https://github.com/Richdssz/acessoedu-nordeste">AcessoEdu Nordeste</a></h3>
-      <p align="center">
-        <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Aunicap"><img src="https://img.shields.io/badge/unicap-1E293B?style=flat-square&logo=readme&logoColor=34D399" /></a>
-        <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Afullstack"><img src="https://img.shields.io/badge/fullstack-1E293B?style=flat-square&logo=javascript&logoColor=F59E0B" /></a>
-      </p>
-      <p>Plataforma web de transparência e auditoria de dados públicos sobre a infraestrutura das escolas estaduais e municipais da Região Nordeste.</p>
-    </td>
-    <td width="33.3%" valign="top">
-      <h3 align="center"><a href="https://github.com/Richdssz/Java-poo">Java POO & Algoritmos</a></h3>
-      <p align="center">
-        <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Ajava"><img src="https://img.shields.io/badge/java-1E293B?style=flat-square&logo=java&logoColor=ED8B00" /></a>
-        <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Apoo"><img src="https://img.shields.io/badge/poo-1E293B?style=flat-square&logo=codeforces&logoColor=FBBF24" /></a>
-      </p>
-      <p>Repositório prático com implementações de Programação Orientada a Objetos, herança, polimorfismo, coleções e resolução de problemas algorítmicos em Java.</p>
-    </td>
-    <td width="33.3%" valign="top">
-      <h3 align="center"><a href="https://github.com/Richdssz/De_olho_na_camara">De Olho na Câmara</a></h3>
-      <p align="center">
-        <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Aprojeto-pessoal"><img src="https://img.shields.io/badge/projeto--pessoal-1E293B?style=flat-square&logo=rocket&logoColor=38BDF8" /></a>
-        <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Adados-abertos"><img src="https://img.shields.io/badge/dados--abertos-1E293B?style=flat-square&logo=github&logoColor=34D399" /></a>
-      </p>
-      <p>Dashboard em tempo real consumindo a API da Câmara dos Deputados com gráficos interativos e métricas de impacto financeiro (ROI) de parlamentares.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### Estatísticas & Atividade GitHub
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Richdssz&theme=tokyonight&locale=pt_BR&hide_border=true" alt="Streak de Commits" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Richdssz&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de Atividade de Commits" width="100%" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
+
+<br>
 
 ---
 
