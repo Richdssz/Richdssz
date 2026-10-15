@@ -71,6 +71,35 @@
 
 ---
 
+### 🧭 Organização dos Repositórios
+
+Aqui você encontra a divisão dos meus projetos e repositórios por objetivo técnico e metodologia de construção (clique nos badges para filtrar):
+
+<p align="left">
+  <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Aestudos" target="_blank">
+    <img src="https://img.shields.io/badge/Estudos_%26_Fundamentos-4338CA?style=for-the-badge&logo=gitbook&logoColor=white" alt="Estudos & Fundamentos" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Aprojeto-pessoal" target="_blank">
+    <img src="https://img.shields.io/badge/Projetos_Pessoais_%26_Produção-0D9488?style=for-the-badge&logo=target&logoColor=white" alt="Projetos Pessoais & Produção" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Adesenvolvimento-assistido-por-ia" target="_blank">
+    <img src="https://img.shields.io/badge/Desenvolvimento_Assistido_por_IA-2563EB?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Desenvolvimento Assistido por IA" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Richdssz?tab=repositories&q=topic%3Alaboratorio" target="_blank">
+    <img src="https://img.shields.io/badge/Laborat%C3%B3rio_%26_Experimentos-7C3AED?style=for-the-badge&logo=flask&logoColor=white" alt="Laboratório & Experimentos" />
+  </a>
+</p>
+
+- 📚 **[Estudos & Fundamentos](https://github.com/Richdssz?tab=repositories&q=topic%3Aestudos)**: Algoritmos, Programação Orientada a Objetos em Java, estruturas de dados, protocolos, redes TCP/IP e laboratórios acadêmicos da UNICAP.
+- 🎯 **[Projetos Pessoais & Produção](https://github.com/Richdssz?tab=repositories&q=topic%3Aprojeto-pessoal)**: Aplicações completas com arquitetura sólida (Spring Boot, Next.js, PostgreSQL), boas práticas de engenharia de software e regras de negócio estruturadas.
+- 🤖 **[Desenvolvimento Assistido por IA](https://github.com/Richdssz?tab=repositories&q=topic%3Adesenvolvimento-assistido-por-ia)**: Softwares, utilitários e automações desenvolvidos em sinergia com agentes autônomos e LLMs, unindo velocidade de implementação com validação técnica de arquitetura.
+- 🧪 **[Laboratório & Experimentos](https://github.com/Richdssz?tab=repositories&q=topic%3Alaboratorio)**: Espaço de experimentação contínua, prototipagem de ideias, testes de bibliotecas emergentes, exploração de novas ferramentas e Provas de Conceito (PoCs).
+
+---
+
 ### 📊 Linguagens Mais Utilizadas
 
 <div align="center">
